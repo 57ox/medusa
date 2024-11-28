@@ -1,6 +1,6 @@
 {
   "name": "@medusajs/admin-bundler",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "description": "Bundler for the Medusa admin dashboard.",
   "author": "Kasper Kristensen <kasper@medusajs.com>",
   "scripts": {
@@ -18,7 +18,7 @@
     "package.json"
   ],
   "devDependencies": {
-    "@medusajs/types": "^2.0.7",
+    "@medusajs/types": "^2.0.8",
     "@types/compression": "^1.7.5",
     "copyfiles": "^2.4.1",
     "express": "^4.21.0",
@@ -26,9 +26,9 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "@medusajs/admin-shared": "2.0.7",
-    "@medusajs/admin-vite-plugin": "2.0.7",
-    "@medusajs/dashboard": "2.0.7",
+    "@medusajs/admin-shared": "2.0.8",
+    "@medusajs/admin-vite-plugin": "2.0.8",
+    "@medusajs/dashboard": "2.0.8",
     "@vitejs/plugin-react": "^4.2.1",
     "autoprefixer": "^10.4.16",
     "compression": "^1.7.4",

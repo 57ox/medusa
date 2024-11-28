@@ -1,5 +1,56 @@
 # Change Log
 
+## 2.0.8
+
+### Patch Changes
+
+- [#10327](https://github.com/medusajs/medusa/pull/10327) [`ef046844cca26deddc02008cd50675fcfb4c8af4`](https://github.com/medusajs/medusa/commit/ef046844cca26deddc02008cd50675fcfb4c8af4) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(medusa): remove request body type argument from cancel order transfer routes
+
+- Updated dependencies [[`2838100efc8f1bef7f1bea022912dfbfa064bb56`](https://github.com/medusajs/medusa/commit/2838100efc8f1bef7f1bea022912dfbfa064bb56)]:
+  - @medusajs/product@2.0.8
+  - @medusajs/admin-bundler@2.0.8
+  - @medusajs/core-flows@2.0.8
+  - @medusajs/telemetry@2.0.8
+  - @medusajs/api-key@2.0.8
+  - @medusajs/auth@2.0.8
+  - @medusajs/cache-inmemory@2.0.8
+  - @medusajs/cache-redis@2.0.8
+  - @medusajs/cart@2.0.8
+  - @medusajs/currency@2.0.8
+  - @medusajs/customer@2.0.8
+  - @medusajs/event-bus-local@2.0.8
+  - @medusajs/event-bus-redis@2.0.8
+  - @medusajs/file@2.0.8
+  - @medusajs/fulfillment@2.0.8
+  - @medusajs/index@2.0.8
+  - @medusajs/inventory@2.0.8
+  - @medusajs/link-modules@2.0.8
+  - @medusajs/locking@2.0.8
+  - @medusajs/notification@2.0.8
+  - @medusajs/order@2.0.8
+  - @medusajs/payment@2.0.8
+  - @medusajs/pricing@2.0.8
+  - @medusajs/promotion@2.0.8
+  - @medusajs/auth-emailpass@2.0.8
+  - @medusajs/auth-github@2.0.8
+  - @medusajs/auth-google@2.0.8
+  - @medusajs/file-local@2.0.8
+  - @medusajs/file-s3@2.0.8
+  - @medusajs/fulfillment-manual@2.0.8
+  - @medusajs/locking-postgres@2.0.8
+  - @medusajs/locking-redis@2.0.8
+  - @medusajs/notification-local@2.0.8
+  - @medusajs/notification-sendgrid@2.0.8
+  - @medusajs/payment-stripe@2.0.8
+  - @medusajs/region@2.0.8
+  - @medusajs/sales-channel@2.0.8
+  - @medusajs/stock-location@2.0.8
+  - @medusajs/store@2.0.8
+  - @medusajs/tax@2.0.8
+  - @medusajs/user@2.0.8
+  - @medusajs/workflow-engine-inmemory@2.0.8
+  - @medusajs/workflow-engine-redis@2.0.8
+
 ## 2.0.7
 
 ### Patch Changes

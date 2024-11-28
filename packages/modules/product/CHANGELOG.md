@@ -1,5 +1,11 @@
 # @medusajs/product
 
+## 2.0.8
+
+### Patch Changes
+
+- [#10326](https://github.com/medusajs/medusa/pull/10326) [`2838100efc8f1bef7f1bea022912dfbfa064bb56`](https://github.com/medusajs/medusa/commit/2838100efc8f1bef7f1bea022912dfbfa064bb56) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(product): change export name of ProductImage
+
 ## 2.0.7
 
 ## 2.0.6

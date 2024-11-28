@@ -1,5 +1,13 @@
 # @medusajs/oas-cli
 
+## 2.0.8
+
+### Patch Changes
+
+- Updated dependencies [[`ef046844cca26deddc02008cd50675fcfb4c8af4`](https://github.com/medusajs/medusa/commit/ef046844cca26deddc02008cd50675fcfb4c8af4)]:
+  - @medusajs/medusa@2.0.8
+  - @medusajs/utils@2.0.8
+
 ## 2.0.7
 
 ### Patch Changes
