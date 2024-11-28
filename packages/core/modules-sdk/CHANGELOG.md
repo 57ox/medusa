@@ -1,5 +1,14 @@
 # @medusajs/modules-sdk
 
+## 2.0.8
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @medusajs/orchestration@2.0.8
+  - @medusajs/types@2.0.8
+  - @medusajs/utils@2.0.8
+
 ## 2.0.7
 
 ### Patch Changes
