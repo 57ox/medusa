@@ -1,5 +1,11 @@
 # @medusajs/auth
 
+## 2.1.0
+
+### Minor Changes
+
+- [#10387](https://github.com/medusajs/medusa/pull/10387) [`4ef353a7b9e807f727d97025954306c9312ff786`](https://github.com/medusajs/medusa/commit/4ef353a7b9e807f727d97025954306c9312ff786) Thanks [@adrien2p](https://github.com/adrien2p)! - feat(auth): Migrate auth module to DML
+
 ## 2.0.7
 
 ## 2.0.6

@@ -1,5 +1,11 @@
 # @medusajs/pricing
 
+## 2.1.0
+
+### Patch Changes
+
+- [#10350](https://github.com/medusajs/medusa/pull/10350) [`324b4ab438662f44de495ffe4d9137677a032a00`](https://github.com/medusajs/medusa/commit/324b4ab438662f44de495ffe4d9137677a032a00) Thanks [@riqwan](https://github.com/riqwan)! - feat(pricing, types): add price rule operators to price calculations
+
 ## 2.0.7
 
 ## 2.0.6

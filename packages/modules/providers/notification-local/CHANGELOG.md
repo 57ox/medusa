@@ -1,5 +1,7 @@
 # @medusajs/notification-local
 
+## 2.1.0
+
 ## 2.0.7
 
 ## 2.0.6

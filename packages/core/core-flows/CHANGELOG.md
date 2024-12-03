@@ -1,5 +1,11 @@
 # @medusajs/core-flows
 
+## 2.1.0
+
+### Patch Changes
+
+- [#10374](https://github.com/medusajs/medusa/pull/10374) [`11bd55613304350a5478fd4c001e2309cca3a995`](https://github.com/medusajs/medusa/commit/11bd55613304350a5478fd4c001e2309cca3a995) Thanks [@riqwan](https://github.com/riqwan)! - feat(core-flows,framework,medusa): list shipping options pass in cart as pricing context
+
 ## 2.0.7
 
 ### Patch Changes

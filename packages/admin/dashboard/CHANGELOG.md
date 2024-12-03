@@ -1,5 +1,14 @@
 # @medusajs/dashboard
 
+## 2.1.0
+
+### Patch Changes
+
+- Updated dependencies [[`94f6265dfc074969f2f141a19f2fc33a6ab96af1`](https://github.com/medusajs/medusa/commit/94f6265dfc074969f2f141a19f2fc33a6ab96af1)]:
+  - @medusajs/icons@2.1.0
+  - @medusajs/admin-shared@2.1.0
+  - @medusajs/js-sdk@2.1.0
+
 ## 2.0.7
 
 ### Patch Changes

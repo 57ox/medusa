@@ -1,5 +1,11 @@
 # @medusajs/user
 
+## 2.1.0
+
+### Minor Changes
+
+- [#10389](https://github.com/medusajs/medusa/pull/10389) [`ac7958523218fe01528ad25ef6a203f620ecb6dd`](https://github.com/medusajs/medusa/commit/ac7958523218fe01528ad25ef6a203f620ecb6dd) Thanks [@adrien2p](https://github.com/adrien2p)! - feat(user): Migrate user module to DML
+
 ## 2.0.7
 
 ## 2.0.6

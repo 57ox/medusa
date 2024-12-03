@@ -1,5 +1,58 @@
 # Change Log
 
+## 2.1.0
+
+### Patch Changes
+
+- [#10327](https://github.com/medusajs/medusa/pull/10327) [`ef046844cca26deddc02008cd50675fcfb4c8af4`](https://github.com/medusajs/medusa/commit/ef046844cca26deddc02008cd50675fcfb4c8af4) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(medusa): remove request body type argument from cancel order transfer routes
+
+- [#10374](https://github.com/medusajs/medusa/pull/10374) [`11bd55613304350a5478fd4c001e2309cca3a995`](https://github.com/medusajs/medusa/commit/11bd55613304350a5478fd4c001e2309cca3a995) Thanks [@riqwan](https://github.com/riqwan)! - feat(core-flows,framework,medusa): list shipping options pass in cart as pricing context
+
+- Updated dependencies [[`324b4ab438662f44de495ffe4d9137677a032a00`](https://github.com/medusajs/medusa/commit/324b4ab438662f44de495ffe4d9137677a032a00), [`4ef353a7b9e807f727d97025954306c9312ff786`](https://github.com/medusajs/medusa/commit/4ef353a7b9e807f727d97025954306c9312ff786), [`2838100efc8f1bef7f1bea022912dfbfa064bb56`](https://github.com/medusajs/medusa/commit/2838100efc8f1bef7f1bea022912dfbfa064bb56), [`ac7958523218fe01528ad25ef6a203f620ecb6dd`](https://github.com/medusajs/medusa/commit/ac7958523218fe01528ad25ef6a203f620ecb6dd), [`11bd55613304350a5478fd4c001e2309cca3a995`](https://github.com/medusajs/medusa/commit/11bd55613304350a5478fd4c001e2309cca3a995)]:
+  - @medusajs/pricing@2.1.0
+  - @medusajs/auth@2.1.0
+  - @medusajs/product@2.1.0
+  - @medusajs/user@2.1.0
+  - @medusajs/core-flows@2.1.0
+  - @medusajs/admin-bundler@2.1.0
+  - @medusajs/telemetry@2.1.0
+  - @medusajs/api-key@2.1.0
+  - @medusajs/cache-inmemory@2.1.0
+  - @medusajs/cache-redis@2.1.0
+  - @medusajs/cart@2.1.0
+  - @medusajs/currency@2.1.0
+  - @medusajs/customer@2.1.0
+  - @medusajs/event-bus-local@2.1.0
+  - @medusajs/event-bus-redis@2.1.0
+  - @medusajs/file@2.1.0
+  - @medusajs/fulfillment@2.1.0
+  - @medusajs/index@2.1.0
+  - @medusajs/inventory@2.1.0
+  - @medusajs/link-modules@2.1.0
+  - @medusajs/locking@2.1.0
+  - @medusajs/notification@2.1.0
+  - @medusajs/order@2.1.0
+  - @medusajs/payment@2.1.0
+  - @medusajs/promotion@2.1.0
+  - @medusajs/auth-emailpass@2.1.0
+  - @medusajs/auth-github@2.1.0
+  - @medusajs/auth-google@2.1.0
+  - @medusajs/file-local@2.1.0
+  - @medusajs/file-s3@2.1.0
+  - @medusajs/fulfillment-manual@2.1.0
+  - @medusajs/locking-postgres@2.1.0
+  - @medusajs/locking-redis@2.1.0
+  - @medusajs/notification-local@2.1.0
+  - @medusajs/notification-sendgrid@2.1.0
+  - @medusajs/payment-stripe@2.1.0
+  - @medusajs/region@2.1.0
+  - @medusajs/sales-channel@2.1.0
+  - @medusajs/stock-location@2.1.0
+  - @medusajs/store@2.1.0
+  - @medusajs/tax@2.1.0
+  - @medusajs/workflow-engine-inmemory@2.1.0
+  - @medusajs/workflow-engine-redis@2.1.0
+
 ## 2.0.7
 
 ### Patch Changes
