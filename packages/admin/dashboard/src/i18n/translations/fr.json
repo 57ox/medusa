@@ -963,8 +963,8 @@
 			"createRefund": "Créer un remboursement",
 			"refundPaymentSuccess": "Remboursement de {{amount}} réussi",
 			"createRefundWrongQuantity": "La quantité doit être un nombre entre 1 et {{number}}",
-			"refundAmount": "Remboursement de {{ amount }}",
-			"paymentLink": "Copier le lien de paiement pour {{ amount }}",
+			"refundAmount": "Remboursement de {{amount}}",
+			"paymentLink": "Copier le lien de paiement pour {{amount}}",
 			"selectPaymentToRefund": "Sélectionner le paiement à rembourser"
 		},
 		"edits": {
@@ -1044,7 +1044,7 @@
 			},
 			"receive": {
 				"action": "Recevoir des articles",
-				"receiveItems": "{{ returnType }} {{ id }}",
+				"receiveItems": "{{returnType}} {{id}}",
 				"restockAll": "Réapprovisionner tous les articles",
 				"itemsLabel": "Articles reçus",
 				"title": "Recevoir des articles pour #{{returnId}}",
@@ -2715,7 +2715,7 @@
 		"issuedDate": "Date d'émission",
 		"expiryDate": "Date d'expiration",
 		"price": "Prix",
-		"priceTemplate": "Prix {{régionOrMonnaie}}",
+		"priceTemplate": "Prix {{regionOrCurrency}}",
 		"height": "Hauteur",
 		"width": "Largeur",
 		"length": "Longueur",
