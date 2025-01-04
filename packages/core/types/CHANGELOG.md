@@ -1,5 +1,17 @@
 # @medusajs/types
 
+## 2.1.4
+
+### Patch Changes
+
+- [#10791](https://github.com/medusajs/medusa/pull/10791) [`ecc09fd77db01fcb7e8eb8e60cd19e16e2b5ea81`](https://github.com/medusajs/medusa/commit/ecc09fd77db01fcb7e8eb8e60cd19e16e2b5ea81) Thanks [@thetutlage](https://github.com/thetutlage)! - feat: generate modules mappings at runtime
+
+- [#10707](https://github.com/medusajs/medusa/pull/10707) [`13ddf27c68fc2831b3661940bc5f27bab23ce8c0`](https://github.com/medusajs/medusa/commit/13ddf27c68fc2831b3661940bc5f27bab23ce8c0) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(medusa,types,js-sdk): fix request query parameter types for store product routes
+
+- [#10773](https://github.com/medusajs/medusa/pull/10773) [`5e9d86d75d1f2745c24a4bcd4a5c0df066578ef5`](https://github.com/medusajs/medusa/commit/5e9d86d75d1f2745c24a4bcd4a5c0df066578ef5) Thanks [@thetutlage](https://github.com/thetutlage)! - feat: deprecate remoteQueryConfig in favor of queryConfig
+
+- [#10697](https://github.com/medusajs/medusa/pull/10697) [`0559d54c18d2e79c78c2b9a348b9873d1a786dea`](https://github.com/medusajs/medusa/commit/0559d54c18d2e79c78c2b9a348b9873d1a786dea) Thanks [@thetutlage](https://github.com/thetutlage)! - fix: pluralization of words ending in y, where y follows a vowel
+
 ## 2.1.3
 
 ### Patch Changes

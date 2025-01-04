@@ -1,5 +1,14 @@
 # @medusajs/ui
 
+## 4.0.3
+
+### Patch Changes
+
+- [#10458](https://github.com/medusajs/medusa/pull/10458) [`f7aaf2c8bb243c8478a943285628ba8eb331feb6`](https://github.com/medusajs/medusa/commit/f7aaf2c8bb243c8478a943285628ba8eb331feb6) Thanks [@kasperkristensen](https://github.com/kasperkristensen)! - chore(ui,icons): Add React 19/19-rc to peer dependencies
+
+- Updated dependencies [[`f7aaf2c8bb243c8478a943285628ba8eb331feb6`](https://github.com/medusajs/medusa/commit/f7aaf2c8bb243c8478a943285628ba8eb331feb6)]:
+  - @medusajs/icons@2.1.4
+
 ## 4.0.2
 
 ### Patch Changes

@@ -1,5 +1,7 @@
 # @medusajs/product
 
+## 2.1.4
+
 ## 2.1.3
 
 ### Patch Changes

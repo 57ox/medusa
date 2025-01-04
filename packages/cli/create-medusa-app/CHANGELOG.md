@@ -1,5 +1,14 @@
 # Change Log
 
+## 2.1.4
+
+### Patch Changes
+
+- [#10755](https://github.com/medusajs/medusa/pull/10755) [`1e6d56bc18b55d0b8e526116b37123c2079fec09`](https://github.com/medusajs/medusa/commit/1e6d56bc18b55d0b8e526116b37123c2079fec09) Thanks [@shahednasser](https://github.com/shahednasser)! - feat(create-medusa-app): allow passing project name on command line
+
+- Updated dependencies []:
+  - @medusajs/telemetry@2.1.4
+
 ## 2.1.3
 
 ### Patch Changes

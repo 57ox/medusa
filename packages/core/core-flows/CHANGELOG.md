@@ -1,5 +1,13 @@
 # @medusajs/core-flows
 
+## 2.1.4
+
+### Patch Changes
+
+- [#10732](https://github.com/medusajs/medusa/pull/10732) [`699bb6dc2424053bdc73e70eecdd8fb8372b32a4`](https://github.com/medusajs/medusa/commit/699bb6dc2424053bdc73e70eecdd8fb8372b32a4) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(core-flows): export updateTaxRegionsStep
+
+- [#10768](https://github.com/medusajs/medusa/pull/10768) [`bbf790ea44d0ce0a128a07e66224735f5a2dccf0`](https://github.com/medusajs/medusa/commit/bbf790ea44d0ce0a128a07e66224735f5a2dccf0) Thanks [@thetutlage](https://github.com/thetutlage)! - Refactor/deprecate remote link
+
 ## 2.1.3
 
 ### Patch Changes

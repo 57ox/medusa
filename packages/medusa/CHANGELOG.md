@@ -1,5 +1,64 @@
 # Change Log
 
+## 2.1.4
+
+### Patch Changes
+
+- [#10791](https://github.com/medusajs/medusa/pull/10791) [`ecc09fd77db01fcb7e8eb8e60cd19e16e2b5ea81`](https://github.com/medusajs/medusa/commit/ecc09fd77db01fcb7e8eb8e60cd19e16e2b5ea81) Thanks [@thetutlage](https://github.com/thetutlage)! - feat: generate modules mappings at runtime
+
+- [#10707](https://github.com/medusajs/medusa/pull/10707) [`13ddf27c68fc2831b3661940bc5f27bab23ce8c0`](https://github.com/medusajs/medusa/commit/13ddf27c68fc2831b3661940bc5f27bab23ce8c0) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(medusa,types,js-sdk): fix request query parameter types for store product routes
+
+- [#10773](https://github.com/medusajs/medusa/pull/10773) [`5e9d86d75d1f2745c24a4bcd4a5c0df066578ef5`](https://github.com/medusajs/medusa/commit/5e9d86d75d1f2745c24a4bcd4a5c0df066578ef5) Thanks [@thetutlage](https://github.com/thetutlage)! - feat: deprecate remoteQueryConfig in favor of queryConfig
+
+- [#10717](https://github.com/medusajs/medusa/pull/10717) [`83925f5c7a2de5ffd7db21f620d6864bcf59fd04`](https://github.com/medusajs/medusa/commit/83925f5c7a2de5ffd7db21f620d6864bcf59fd04) Thanks [@ranjithkumar8352](https://github.com/ranjithkumar8352)! - Fix medusa develop command crashing on file change on windows
+
+- [#10808](https://github.com/medusajs/medusa/pull/10808) [`988931a5513fadb12f24d1fda9ed7af32b3128af`](https://github.com/medusajs/medusa/commit/988931a5513fadb12f24d1fda9ed7af32b3128af) Thanks [@thetutlage](https://github.com/thetutlage)! - Fix/product variants filter
+
+- Updated dependencies [[`699bb6dc2424053bdc73e70eecdd8fb8372b32a4`](https://github.com/medusajs/medusa/commit/699bb6dc2424053bdc73e70eecdd8fb8372b32a4), [`bbf790ea44d0ce0a128a07e66224735f5a2dccf0`](https://github.com/medusajs/medusa/commit/bbf790ea44d0ce0a128a07e66224735f5a2dccf0), [`6d989bc8cdcb2a0c8e33742e2b4c9f52b37beb57`](https://github.com/medusajs/medusa/commit/6d989bc8cdcb2a0c8e33742e2b4c9f52b37beb57), [`3a0c69fbe0acd5fac907a86393a8ccf86d9837af`](https://github.com/medusajs/medusa/commit/3a0c69fbe0acd5fac907a86393a8ccf86d9837af)]:
+  - @medusajs/core-flows@2.1.4
+  - @medusajs/pricing@2.1.4
+  - @medusajs/fulfillment@2.1.4
+  - @medusajs/admin-bundler@2.1.4
+  - @medusajs/telemetry@2.1.4
+  - @medusajs/api-key@2.1.4
+  - @medusajs/auth@2.1.4
+  - @medusajs/cache-inmemory@2.1.4
+  - @medusajs/cache-redis@2.1.4
+  - @medusajs/cart@2.1.4
+  - @medusajs/currency@2.1.4
+  - @medusajs/customer@2.1.4
+  - @medusajs/event-bus-local@2.1.4
+  - @medusajs/event-bus-redis@2.1.4
+  - @medusajs/file@2.1.4
+  - @medusajs/index@2.1.4
+  - @medusajs/inventory@2.1.4
+  - @medusajs/link-modules@2.1.4
+  - @medusajs/locking@2.1.4
+  - @medusajs/notification@2.1.4
+  - @medusajs/order@2.1.4
+  - @medusajs/payment@2.1.4
+  - @medusajs/product@2.1.4
+  - @medusajs/promotion@2.1.4
+  - @medusajs/auth-emailpass@2.1.4
+  - @medusajs/auth-github@2.1.4
+  - @medusajs/auth-google@2.1.4
+  - @medusajs/file-local@2.1.4
+  - @medusajs/file-s3@2.1.4
+  - @medusajs/fulfillment-manual@2.1.4
+  - @medusajs/locking-postgres@2.1.4
+  - @medusajs/locking-redis@2.1.4
+  - @medusajs/notification-local@2.1.4
+  - @medusajs/notification-sendgrid@2.1.4
+  - @medusajs/payment-stripe@2.1.4
+  - @medusajs/region@2.1.4
+  - @medusajs/sales-channel@2.1.4
+  - @medusajs/stock-location@2.1.4
+  - @medusajs/store@2.1.4
+  - @medusajs/tax@2.1.4
+  - @medusajs/user@2.1.4
+  - @medusajs/workflow-engine-inmemory@2.1.4
+  - @medusajs/workflow-engine-redis@2.1.4
+
 ## 2.1.3
 
 ### Patch Changes
